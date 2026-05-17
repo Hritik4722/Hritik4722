@@ -64,10 +64,11 @@ Infra      →  Docker · Git · Firebase
 
 <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=hritik4722&theme=github-dark-blue&hide_border=true" height="150"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hritik4722&theme=github_dark" height="150"/>
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hritik4722&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hritik4722&theme=github_dark" height="150"/>
 </p>
-
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=hritik4722&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
