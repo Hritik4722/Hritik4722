@@ -61,9 +61,14 @@ Infra      →  Docker · Git · Firebase
 
 ## github stats
 
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritik4722&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hritik4722&theme=github-dark-blue&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritik4722&layout=compact&hide_border=true&theme=github_dark" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=hritik4722&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
