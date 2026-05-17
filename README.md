@@ -19,6 +19,7 @@
 
 ---
 
+<!--
 ```bash
 ❯ whoami
 # Hritik Yadav — AI Engineer, India
@@ -32,6 +33,8 @@
 ❯ echo $STATUS
 → open to interesting problems
 ```
+-->
+![terminal card](https://terminal-card.onrender.com/api/terminal?username=hritik4722&title=AI+Engineer&location=Mumbai&out2=Building+scalable+LLM-powered+products+%26+agentic+backends&out3=Generative+AI+%C2%B7+RAG+%C2%B7+LangGraph+%C2%B7+Production+APIs&out4=open+to+interesting+problems&cmd3=echo+%24LEARNING&stats=true&theme=dracula)
 
 ---
 
