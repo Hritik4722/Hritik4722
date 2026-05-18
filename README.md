@@ -84,7 +84,7 @@ Infra      →  Docker · Git · Firebase
 
 ## reach me
 
-[![portfolio](https://img.shields.io/badge/portfolio-hritikyadav.netlify.app-161b22?style=flat-square&logo=netlify&logoColor=00C7B7)](https://hritikyadav.netlify.app/)
+
 [![email](https://img.shields.io/badge/email-yadavhritik.professional%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:yadavhritik.professional@gmail.com)
 
 ---
